@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+	<listeners>
+		<listener class-name="com.opencart.utility.ListenerSetup"/>
+		<listener class-name="com.opencart.utility.ExtentReporterNG"/>
+	</listeners>
+  <test thread-count="5" name="RegressionTest">
+    <classes>
+      <class name="com.opencart.testLayer.LoginTest"/>
+      <class name="com.opencart.testLayer.RegisterTest"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- RegressionSuite -->

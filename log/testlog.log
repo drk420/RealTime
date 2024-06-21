@@ -1,0 +1,42 @@
+2024-06-11 19:28:24,118 - Opencart Framework -INFO - framework execution started
+2024-06-11 19:28:29,435 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:28:29,449 - Opencart Framework -INFO - Test case execution started :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:28:30,683 - Opencart Framework -INFO - Test case execution failed :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:28:31,507 - Opencart Framework -INFO - browser closed
+2024-06-11 19:28:35,225 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:28:35,227 - Opencart Framework -INFO - Test case execution started :- verifyLoginTestWithValidDetails
+2024-06-11 19:28:36,595 - Opencart Framework -INFO - Test case execution failed :- verifyLoginTestWithValidDetails
+2024-06-11 19:28:38,403 - Opencart Framework -INFO - browser closed
+2024-06-11 19:28:43,173 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:28:43,188 - Opencart Framework -INFO - Test case execution started :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:28:45,123 - Opencart Framework -INFO - Test case execution completed :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:28:45,641 - Opencart Framework -INFO - browser closed
+2024-06-11 19:28:52,555 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:28:52,560 - Opencart Framework -INFO - Test case execution started :- verifyRegisterTestWithValidDetails
+2024-06-11 19:28:54,744 - Opencart Framework -INFO - Test case execution failed :- verifyRegisterTestWithValidDetails
+2024-06-11 19:28:55,392 - Opencart Framework -INFO - browser closed
+2024-06-11 19:28:55,393 - Opencart Framework -INFO - framework execution started
+2024-06-11 19:33:19,676 - Opencart Framework -INFO - framework execution started
+2024-06-11 19:33:28,763 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:33:28,786 - Opencart Framework -INFO - Test case execution started :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:33:29,691 - Opencart Framework -INFO - naviagted to login page
+2024-06-11 19:33:30,302 - Opencart Framework -INFO - logged i
+2024-06-11 19:33:30,351 - Opencart Framework -INFO - Actual Result is :- Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.
+2024-06-11 19:33:30,362 - Opencart Framework -INFO - Test case execution failed :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:33:31,141 - Opencart Framework -INFO - browser closed
+2024-06-11 19:33:34,689 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:33:34,699 - Opencart Framework -INFO - Test case execution started :- verifyLoginTestWithValidDetails
+2024-06-11 19:33:35,621 - Opencart Framework -INFO - naviagted to login page
+2024-06-11 19:33:36,361 - Opencart Framework -INFO - logged in
+2024-06-11 19:33:36,377 - Opencart Framework -INFO - Actual Result is :- Account Login
+2024-06-11 19:33:36,380 - Opencart Framework -INFO - Test case execution failed :- verifyLoginTestWithValidDetails
+2024-06-11 19:33:37,069 - Opencart Framework -INFO - browser closed
+2024-06-11 19:33:40,715 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:33:40,727 - Opencart Framework -INFO - Test case execution started :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:33:42,925 - Opencart Framework -INFO - Test case execution completed :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:33:43,468 - Opencart Framework -INFO - browser closed
+2024-06-11 19:33:46,836 - Opencart Framework -INFO - browser launched and url
+2024-06-11 19:33:46,845 - Opencart Framework -INFO - Test case execution started :- verifyRegisterTestWithValidDetails
+2024-06-11 19:33:49,244 - Opencart Framework -INFO - Test case execution failed :- verifyRegisterTestWithValidDetails
+2024-06-11 19:33:49,927 - Opencart Framework -INFO - browser closed
+2024-06-11 19:33:49,928 - Opencart Framework -INFO - framework execution started

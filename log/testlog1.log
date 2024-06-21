@@ -1,0 +1,42 @@
+2024-06-11 19:28:24,118 [main] INFO Opencart Framework - framework execution started
+2024-06-11 19:28:29,435 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:28:29,449 [main] INFO Opencart Framework - Test case execution started :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:28:30,683 [main] INFO Opencart Framework - Test case execution failed :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:28:31,507 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:28:35,225 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:28:35,227 [main] INFO Opencart Framework - Test case execution started :- verifyLoginTestWithValidDetails
+2024-06-11 19:28:36,595 [main] INFO Opencart Framework - Test case execution failed :- verifyLoginTestWithValidDetails
+2024-06-11 19:28:38,403 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:28:43,173 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:28:43,188 [main] INFO Opencart Framework - Test case execution started :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:28:45,123 [main] INFO Opencart Framework - Test case execution completed :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:28:45,641 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:28:52,555 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:28:52,560 [main] INFO Opencart Framework - Test case execution started :- verifyRegisterTestWithValidDetails
+2024-06-11 19:28:54,744 [main] INFO Opencart Framework - Test case execution failed :- verifyRegisterTestWithValidDetails
+2024-06-11 19:28:55,392 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:28:55,393 [main] INFO Opencart Framework - framework execution started
+2024-06-11 19:33:19,676 [main] INFO Opencart Framework - framework execution started
+2024-06-11 19:33:28,763 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:33:28,786 [main] INFO Opencart Framework - Test case execution started :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:33:29,691 [main] INFO Opencart Framework - naviagted to login page
+2024-06-11 19:33:30,302 [main] INFO Opencart Framework - logged i
+2024-06-11 19:33:30,351 [main] INFO Opencart Framework - Actual Result is :- Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.
+2024-06-11 19:33:30,362 [main] INFO Opencart Framework - Test case execution failed :- verifyLoginTestWithInvalidDetails
+2024-06-11 19:33:31,141 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:33:34,689 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:33:34,699 [main] INFO Opencart Framework - Test case execution started :- verifyLoginTestWithValidDetails
+2024-06-11 19:33:35,621 [main] INFO Opencart Framework - naviagted to login page
+2024-06-11 19:33:36,361 [main] INFO Opencart Framework - logged in
+2024-06-11 19:33:36,377 [main] INFO Opencart Framework - Actual Result is :- Account Login
+2024-06-11 19:33:36,380 [main] INFO Opencart Framework - Test case execution failed :- verifyLoginTestWithValidDetails
+2024-06-11 19:33:37,069 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:33:40,715 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:33:40,727 [main] INFO Opencart Framework - Test case execution started :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:33:42,925 [main] INFO Opencart Framework - Test case execution completed :- verifyRegisterTestWithExistingAccountDetails
+2024-06-11 19:33:43,468 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:33:46,836 [main] INFO Opencart Framework - browser launched and url
+2024-06-11 19:33:46,845 [main] INFO Opencart Framework - Test case execution started :- verifyRegisterTestWithValidDetails
+2024-06-11 19:33:49,244 [main] INFO Opencart Framework - Test case execution failed :- verifyRegisterTestWithValidDetails
+2024-06-11 19:33:49,927 [main] INFO Opencart Framework - browser closed
+2024-06-11 19:33:49,928 [main] INFO Opencart Framework - framework execution started
